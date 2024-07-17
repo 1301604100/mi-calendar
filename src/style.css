@@ -1,0 +1,9 @@
+body {
+  margin: 0;
+  font-family: "MiSans";
+}
+
+@font-face {
+  font-family: MiSans;
+  src: url("./assets/MiSans-Light.otf");
+}
